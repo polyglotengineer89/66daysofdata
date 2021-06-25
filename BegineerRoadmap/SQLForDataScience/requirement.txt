@@ -1,0 +1,4 @@
+sqlalchemy
+ipython-sql
+pyhive[psycopg2] 
+python-psycopg2

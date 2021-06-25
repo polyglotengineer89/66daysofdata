@@ -1,0 +1,8 @@
+*/image
+image/
+*/.credentials
+.credentials
+
+
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/

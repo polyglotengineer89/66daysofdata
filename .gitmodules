@@ -1,0 +1,9 @@
+[submodule "BegineerRoadmap/BasicOfDataScience"]i
+	path = BegineerRoadmap/BasicOfDataScience
+	url = https://github.com/muhyasin89/data_science.git
+[submodule "BegineerRoadmap/SQLForDataScience"]
+	path = BegineerRoadmap/SQLForDataScience
+	url = https://github.com/muhyasin89/sql_for_data_science.git
+[submodule "MachineLearning/MachineLearningA-Z"]
+	path = MachineLearning/MachineLearningA-Z
+	url = https://github.com/muhyasin89/machine-learning.git

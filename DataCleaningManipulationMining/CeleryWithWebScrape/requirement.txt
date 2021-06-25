@@ -1,0 +1,14 @@
+
+#for collecting data
+beautifulsoup4
+celery
+pandas
+redis
+
+python-dateutil>=2.7.3
+
+sentrycli
+
+flower
+
+openpyxl
