@@ -1,3 +1,0 @@
-# Computer Vision
-
-Coming soon!!! 🚀🚀🚀
